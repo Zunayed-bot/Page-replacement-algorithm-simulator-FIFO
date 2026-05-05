@@ -6,13 +6,13 @@ This project is a web-based simulator for the FIFO (First-In-First-Out) page rep
 In FIFO, the page that comes first into memory is removed first when a new page needs to be loaded.
 
 Features
-    User can enter a custom page reference string.
-    User can select number of frames (1–10).
-    Step-by-step simulation of FIFO algorithm.
-    Shows page hits and page faults.
-    Displays total faults, hits, and hit ratio.
-    Basic comparison with LRU and Optimal algorithms.
-    Simple and responsive UI
+User can enter a custom page reference string.
+User can select number of frames (1–10).
+Step-by-step simulation of FIFO algorithm.
+Shows page hits and page faults.
+Displays total faults, hits, and hit ratio.
+Basic comparison with LRU and Optimal algorithms.
+Simple and responsive UI
     
 Tech Stack
     1.React
