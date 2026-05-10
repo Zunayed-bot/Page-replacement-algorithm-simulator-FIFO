@@ -31,13 +31,6 @@ components/ → UI parts
     -utils/ → algorithm logic
     -App.jsx → main logic
 
-How to Run
-    1.Install dependencies
-    2.npm install
-    3.Run the project
-    4.npm run dev
-    5.Open in browser:
-    6.http://localhost:5173
     
 How to Use
     Enter page reference string (example: 7, 0, 1, 2).
